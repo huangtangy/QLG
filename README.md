@@ -1,4 +1,4 @@
-### This notebook provides numerical simulations of quantum lattice gate (QLG)–based state preparation.
+### This code folder provides numerical simulations of quantum lattice gate (QLG)–based state preparation.
 Note: The recommended Python environment is specified in `requirements.txt`.
 There are two methods included in the Repos:
 (1). Adiabatic ramping 
