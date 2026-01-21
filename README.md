@@ -6,3 +6,5 @@ For more details about the methodology and analytical expressions, see Ref. http
 
 (2) Diabatic control: Single-period Floquet control.
 See more details about in Ref: arXiv preprint: [https://arxiv.org/abs/2410.17069.](https://arxiv.org/abs/2601.08782).
+
+### Note：the Diabatic control is independent of Adiabatic ramping! But they share the same python environments.
